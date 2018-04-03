@@ -1,1 +1,5 @@
-## Composer package for extracting information from PDF file
+## Composer package for extracting information from PDF files
+
+#Installation
+
+#Test
